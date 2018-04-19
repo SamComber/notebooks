@@ -4,8 +4,9 @@ Below are URLs to R notebooks hosted on rpubs.
 
 ### Simulating fake datasets under the model
 
-http://rpubs.com/sam_comber/376766
+<a href="http://rpubs.com/sam_comber/376766" target="_blank">http://rpubs.com/sam_comber/376766</a>
+
 
 ### Validation exercise
 
-http://rpubs.com/sam_comber/380375
+<a href="http://rpubs.com/sam_comber/380375" target="_blank">http://rpubs.com/sam_comber/380375</a>
