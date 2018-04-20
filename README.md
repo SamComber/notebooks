@@ -12,5 +12,5 @@ Below are URLs to R notebooks hosted on rpubs.
 <a href="http://rpubs.com/sam_comber/380375" target="_blank">http://rpubs.com/sam_comber/380375</a>
 
 
-![alt tag]()
+![compare_methods](https://imgur.com/a/eVPEu2s)
 
