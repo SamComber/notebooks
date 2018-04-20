@@ -1,6 +1,6 @@
 # This repository contains various notebooks for the working paper: *"Using spatial hierarchical models to evaluate place attractiveness across the UK"*
 
-Below are URLs to R notebooks hosted on rpubs.
+Below are URLs to R notebooks hosted on rpubs. The R and Jupyter notebooks inside the repository detail the quantitative approach developed in the working paper. 
 
 ### Simulating fake datasets under the model
 
