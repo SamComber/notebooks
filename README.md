@@ -10,3 +10,7 @@ Below are URLs to R notebooks hosted on rpubs.
 ### Validation exercise
 
 <a href="http://rpubs.com/sam_comber/380375" target="_blank">http://rpubs.com/sam_comber/380375</a>
+
+
+![alt tag](http://home.bt.com/images/googleimageone-136421931932602601)
+
